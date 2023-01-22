@@ -1,0 +1,6 @@
+name: Sculksp
+version: '${project.version}'
+main: al.sculksp.Sculksp
+api-version: 1.19
+authors: [ Anonymous ]
+description: scusp
